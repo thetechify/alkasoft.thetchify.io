@@ -11,19 +11,14 @@ tags:
     - Video Player
     - A-One Video Player
 ---
+
+<p align="center">
+  <img  src="https://i.imgur.com/gPLTJJv.png" width="600px" >
+
 <a href="https://play.google.com/store/apps/details?id=bestvideoplayer.videodownloader.playitplayer"><img src="https://i.imgur.com/kmtg6MH.png" align="left" height="80" width="80" ></a>
 # A-One All Format Video & Audio Player | Downloader
 - **A-One Video Player** is a Just 3MB light weight Best All-in-one 4K Ultra HD audio video player support all format with video downloader
- 
-## 💻 Install 
-
-| Platform | Download | Status |
-|----------|----------|--------|
-| Android    |[![Download Button](https://img.shields.io/github/v/release/thetechify/playittube?color=7885FF&label=Android-Full&logo=android&style=for-the-badge)](https://github.com/thetechify/playittube/releases/download/v2.0.1/Playittube201fat.apk)| ✅ Stable | 
-| Android    |[![Download Button](https://img.shields.io/github/v/release/thetechify/playittube?color=7885FF&label=Android-ARM64-V8A&logo=android&style=for-the-badge)](https://github.com/thetechify/playittube/releases/download/v2.0.1/playittube201-arm64-v8a-release.apk)| ✅ Stable | 
-| Android    |[![Download Button](https://img.shields.io/github/v/release/thetechify/playittube?color=7885FF&label=Android-ARM-V7A&logo=android&style=for-the-badge)](https://github.com/thetechify/playittube/releases/download/v2.0.1/playittube201-armeabi-v7a-release.apk)| ✅ Stable | 
-| Android    |[![Download Button](https://img.shields.io/github/v/release/thetechify/playittube?color=7885FF&label=Android-X86_64&logo=android&style=for-the-badge)](https://github.com/thetechify/playittube/releases/download/v2.0.1/playittube201-x86_64-release.apk)| ✅ Stable | 
-
+    
   A-One All Format Video & Audio Player - Best Video Player 2021 that can play all kind of video formats You have found the correct video player all format. Playit video player ultimate can play 4k HD videos smoothly. HW+ technology make videos play smoother. Video player for android with smart playback, stylish design, easy to use interface. - A-one Video Player 2021 that can playit all kind of video formats in 4K HD Videos Smoothly.
 
 A-one 4K Video/Audio Player 2021 is a very fantastic app that it plays with high-definition. It is one of the best A-one 4K Video/Audio Player 2021 of all time for all android users and as well as android tablet users.
@@ -33,6 +28,12 @@ Status Saver 2021 - A-One All Format Video & Audio Player | Downloader playit pl
 A-one Video Player All Video /Audio Format Support:
 Playit format video player supports all types of videos like a, MP4, MKV, WMV, MP3,wav, m4a, AVI, FLV, MOV, MPEG, M4V8, M4P Etc
 
+## :tada: Download *Play Store*: 
+    
+<p align="Left">
+ <a href='https://play.google.com/store/apps/details?id=bestvideoplayer.videodownloader.playitplayer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/ width="250px" heigh="70px" ></a>
+
+    
 All in one video Status Downloader and saver
 Video Downloader for FB is the easiest Video Downloader app to download and save videos from facebook.
 Video Downloader for Instagram is the easiest Video Downloader app to download and save videos from Instagram.
